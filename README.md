@@ -5,15 +5,12 @@ Python3
 
     该爬虫使用requests+bs4 进行网易云音乐的热门评论，和歌曲信息
     使用mysql数据库
-    数据库表结构
-    1. 歌曲表
-    ![image](http://github.com/JzwOnly/JCrawler_comments/docs/Song.png)
-    2. 评论表
-    ![image](http://github.com/JzwOnly/JCrawler_comments/docs/comment.png)
-    3. 歌曲评论关联表
-    ![image](http://github.com/JzwOnly/JCrawler_comments/docs/Song_Comment.png)
-    4. 记录赚取到的id位置
-    ![image](http://github.com/JzwOnly/JCrawler_comments/docs/has_been_completed.png)
+    数据库表结构:
+
+    ![歌曲表](http://github.com/JzwOnly/JCrawler_comments/tree/master/docs/Song.png)
+    ![评论表](http://github.com/JzwOnly/JCrawler_comments/tree/master/docs/comment.png)
+    ![歌曲评论关联表](http://github.com/JzwOnly/JCrawler_comments/tree/master/docs/Song_Comment.png)
+    ![记录赚取到的id位置](http://github.com/JzwOnly/JCrawler_comments/tree/master/docs/has_been_completed.png)
 
 
     注意：记录抓取到的歌曲id位置表中，以100为基数，存储了抓取到的id位置，每抓取完100个id，存入一次数据库
