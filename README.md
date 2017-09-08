@@ -7,10 +7,10 @@ Python3
     使用mysql数据库
     数据库表结构:
 
-    ![歌曲表](http://github.com/JzwOnly/JCrawler_comments/tree/master/docs/Song.png)
-    ![评论表](http://github.com/JzwOnly/JCrawler_comments/tree/master/docs/comment.png)
-    ![歌曲评论关联表](http://github.com/JzwOnly/JCrawler_comments/tree/master/docs/Song_Comment.png)
-    ![记录赚取到的id位置](http://github.com/JzwOnly/JCrawler_comments/tree/master/docs/has_been_completed.png)
+    ![歌曲表](https://github.com/JzwOnly/JCrawler_comments/blob/master/docs/Song.png)
+    ![评论表](https://github.com/JzwOnly/JCrawler_comments/blob/master/docs/comment.png)
+    ![歌曲评论关联表](https://github.com/JzwOnly/JCrawler_comments/blob/master/docs/Song_Comment.png)
+    ![记录赚取到的id位置](https://github.com/JzwOnly/JCrawler_comments/blob/master/docs/has_been_completed.png)
 
 
     注意：记录抓取到的歌曲id位置表中，以100为基数，存储了抓取到的id位置，每抓取完100个id，存入一次数据库
