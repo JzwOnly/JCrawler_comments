@@ -3,10 +3,17 @@ Python3
 
 使用mysql数据库，使用mysql数据库
 
+歌曲表
 ![歌曲表](https://github.com/JzwOnly/JCrawler_comments/blob/master/docs/Song.png)
+
+评论表
 ![评论表](https://github.com/JzwOnly/JCrawler_comments/blob/master/docs/comment.png)
+
+歌曲评论关联表
 ![歌曲评论关联表](https://github.com/JzwOnly/JCrawler_comments/blob/master/docs/Song_Comment.png)
-![记录赚取到的id位置](https://github.com/JzwOnly/JCrawler_comments/blob/master/docs/has_been_completed.png)
+
+记录抓取位置表
+![记录抓取位置表](https://github.com/JzwOnly/JCrawler_comments/blob/master/docs/has_been_completed.png)
 
 使用:
 
